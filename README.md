@@ -1,4 +1,11 @@
 ### Hi there 👋
+#### Senior Programmer | Enthusiastic learner | Master Of None
+##### How to reach me 📫
+
+
+| [<img src="https://github.com/rounook/Repository_Images/blob/master/linkedin_32x32.png">](https://www.linkedin.com/in/roonok/) | [<img src="https://github.com/rounook/Repository_Images/blob/master/twitter_32x32.png">](https://twitter.com/Roonok1) |
+| ------------- | ------------- |
+
 
 <!--
 **rounook/rounook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
