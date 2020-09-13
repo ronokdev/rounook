@@ -1,7 +1,6 @@
 
 ### Hi there 👋
 ## Backend Developer | Cloud enthusiast with Sound knowledge of IP-Telephony System (Asterisk) | Master Of None
-------------------------------------------------
 ### Connect with me 📫
 [<img align="left" alt="farhanfuad.com" src="https://github.com/rounook/Repository_Images/blob/master/profile_3232.png" />][website]
 [<img align="left" alt="farhanfuad | Twitter" src="https://github.com/rounook/Repository_Images/blob/master/twitter_32x32.png" />][twitter]
